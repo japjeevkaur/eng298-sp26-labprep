@@ -6,7 +6,7 @@ You'll use it to practice editing a file, saving your work, and committing chang
 ## Your Task
 1. Add a new line below that says something like:  
 
-Hello from First_Name Last_Name! Today is November x, 2025.
+Hello from First_Name Last_Name! Today is April x, 2026.
 
 2. Save the file.  
 3. Commit and push your changes using the **Source Control** panel in VS Code (the “branch” icon on the left).
