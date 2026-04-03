@@ -31,7 +31,7 @@ This short, self-paced module covers:
 3. OPTIONAL: Apply for the [**GitHub Student Developer Pack**](https://education.github.com/pack).
 
 ### Part 2: Forking a Repository (10 minutes)
-1. Visit the starter repository: [**https://github.com/obriencasey/eng298-sp26-labprep**](https://github.com/obriencasey/eng298-sp26-labprep).
+1. Visit the starter repository: [**https://github.com/obrien-casey/eng298-sp26-labprep**](https://github.com/obrien-casey/eng298-sp26-labprep).
 2. Click **Fork** in the upper-right corner.
 3. Confirm your new repository appears under your account.
 
